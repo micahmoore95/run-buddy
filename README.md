@@ -12,3 +12,5 @@ https://micahmoore95.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Micah
+
+### ©️2019 Run Buddy, Inc
